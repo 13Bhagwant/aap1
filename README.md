@@ -4,7 +4,9 @@ Edit the activity_main.xml to present a UI similar to mine (consider including a
 All resource values should be handled in the appropriate resource file.
 
 The Button class contains all model logic for handling a Button. A button should know:
+
 Whether or not it has been selected;
+
 What color it contains.
 
 The ColorMatchGame class contains all game logic. You may use Lights Out as a model; you should include the following methods:
